@@ -15,3 +15,9 @@ conda env export > environment.yaml
 创建python环境指令：
 
 conda env create -f environment.yaml
+
+后续要优化的：
+
+1.画图
+
+2.数据清洗
